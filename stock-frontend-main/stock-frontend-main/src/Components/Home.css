@@ -1,0 +1,42 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  height: 5vh;
+}
+.navbar-left {
+    margin-left: 25px;
+}
+.navbar-right {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 30px;
+}
+.bluecolor {
+  color: rgb(50,73,153);
+}
+.bluecolorlight{
+    background-color: rgb(211, 214, 223);
+}
+.banner{
+    height: 70vh;
+
+}
+.home-bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20vw;
+    margin-top: 20px;
+    margin-right: 20vw;
+    text-align: center;
+}
+.banner-left{
+    width:60vw;
+
+}
+.banner-right{
+    width: 40vw;
+}
+.greyatma{
+    color:rgb(82, 76, 76)
+}
